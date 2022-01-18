@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm jirasak jungburapa
 - 🌱 I’m Jirasak Jungburapa (Koung)
 - 🔭 I’m currently working on [LINE MAN Wongnai](https://careers.lmwn.com)
 - 📫 How to reach me: [facebook](https://fb.com/koung11)
